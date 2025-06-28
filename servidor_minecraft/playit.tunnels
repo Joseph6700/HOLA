@@ -9,16 +9,16 @@
       "active": true,
       "alloc": {
         "data": {
-          "assigned_domain": "park-feature.gl.joinmc.link",
-          "assigned_srv": "park-feature.gl.joinmc.link",
+          "assigned_domain": "up-questions.gl.joinmc.link",
+          "assigned_srv": "up-questions.gl.joinmc.link",
           "assignment": {
             "type": "shared-ip"
           },
-          "id": "97d36f9d-e007-4bb0-b940-7ec914b6dc9c",
+          "id": "67ad6b68-f46b-4acc-a834-9e5c01290933",
           "ip_hostname": "29.ip.gl.ply.gg",
           "ip_type": "both",
-          "port_end": 51292,
-          "port_start": 51291,
+          "port_end": 45990,
+          "port_start": 45989,
           "region": "global",
           "static_ip4": "147.185.221.29",
           "static_ip6": "2602:fbaf:0:1::1d",
@@ -26,16 +26,16 @@
         },
         "status": "allocated"
       },
-      "created_at": "2025-06-28T02:16:40.862415Z",
+      "created_at": "2025-06-28T03:04:05.764397Z",
       "disabled_reason": null,
       "domain": null,
       "expire_notice": null,
       "firewall_id": null,
-      "id": "1755a4b1-c137-4de7-b824-3caafdc924c7",
+      "id": "76d19aee-7aec-4325-b694-43f007b853c4",
       "name": "Minecraft Java",
       "origin": {
         "data": {
-          "agent_id": "a3739b27-157f-4de9-93d4-a3507a5edfe3",
+          "agent_id": "55283dc8-1b8b-4b9b-9bf1-6176b5d989f1",
           "agent_name": "Ilution",
           "local_ip": "127.0.0.1",
           "local_port": 25565
